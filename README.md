@@ -4,3 +4,5 @@
 __Description:__ Program can print the deck of cards or randomly generate two cards and compare their values, based on user input.
 
 __Status:__ Working
+
+__Sample run:__ (Will come back to this)
